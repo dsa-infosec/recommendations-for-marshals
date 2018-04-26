@@ -1,5 +1,7 @@
 # Security suggestions for NYC-DSA Marshalling group
 
+Last updated 4/26/2018
+
 ### Trust But Verify
 Anyone should be able to take the training, no questions asked. But before a person can actually marshal they should be checked out at least a little bit (not a cop, not a nazi, basically)
 
