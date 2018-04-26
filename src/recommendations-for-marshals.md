@@ -1,4 +1,4 @@
-# Security suggestions for NYC-DSA Marshalling group
+# InfoSec suggestions for DSA marshal/opsec groups
 
 Last updated 4/26/2018
 
